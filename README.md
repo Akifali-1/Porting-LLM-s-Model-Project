@@ -18,7 +18,7 @@ Kotlin Native Modules
 
 JavaScript / TypeScript
 
-📱 Key Functionalities
+📱 Key Functionalities: 
 💬 Offline AI conversation
 
 📲 App launching via voice/text commands
@@ -30,27 +30,13 @@ JavaScript / TypeScript
 🗓️ Calendar event creation
 
 🚀 How to Run
-📥 Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/Akifali-1/Porting-LLM-s-Model-Project
-📂 Navigate to:
-bash
-Copy
-Edit
-cd Porting-LLM-s-Model-Project/chat
-📦 Install dependencies:
-bash
-Copy
-Edit
-npm install
-▶️ Run the app:
-bash
-Copy
-Edit
-npx react-native run-android
-🔧 Future Improvements
+📥 Clone the repository: git clone https://github.com/Akifali-1/Porting-LLM-s-Model-Project
+📂 Navigate to: cd Porting-LLM-s-Model-Project/chat
+📦 Install dependencies: npm install
+▶️ Run the app: npx react-native run-android
+
+
+🔧 Future Improvements: 
 🎤 Integrate offline voice-to-text (Whisper.cpp or similar)
 
 🍎 Add support for iOS
