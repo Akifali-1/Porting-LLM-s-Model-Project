@@ -1,4 +1,4 @@
-Porting LLM to Mobile
+🚀Porting LLM to Mobile
 This project focuses on bringing Large Language Models (LLMs) to mobile devices for fully offline AI-powered assistance. The model is integrated using React Native and the llama.rn library, enabling seamless chatbot functionality without an internet connection.
 
 🚀 Features
