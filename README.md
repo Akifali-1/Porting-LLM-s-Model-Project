@@ -30,22 +30,29 @@ Porting LLM to Mobile is a project focused on bringing Large Language Models (LL
 
 ## 🚀 How to Run
 
-### 📂 Bash Navigate and Install Dependencies
+
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Akifali-1/Porting-LLM-s-Model-Project.git
-
-# Navigate to the project directory
-cd Porting-LLM-s-Model-Project/chat
-
-# Install project dependencies
-npm install
-
-# Run the app:
-npx react-native run-android
-
-
 ```
+
+### Navigate to the project directory
+```bash
+cd Porting-LLM-s-Model-Project/chat
+```
+
+### Install project dependencies
+```bash
+npm install
+```
+
+### Run the app:
+```bash
+npx react-native run-android
+```
+
+
+
 ## 🔧 Future Improvements: 
 🎤 Integrate offline voice-to-text (Whisper.cpp or similar)
 
