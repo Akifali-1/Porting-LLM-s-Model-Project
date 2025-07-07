@@ -41,7 +41,8 @@ cd Porting-LLM-s-Model-Project/chat
 # Install project dependencies
 npm install
 
-# Run the app: npx react-native run-android
+# Run the app:
+npx react-native run-android
 
 
 ```
